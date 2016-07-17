@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SignOn</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="inicio_item">inicio</string>
+    <string name="modulo_item">Modulos</string>
+    <string name="evaluaciones_item">Evaluaciones</string>
+    <string name="categorias_item">Categorias</string>
+    <string name="log_out_item">Cerrar Sesión</string>
+    <string name="configuracion_item">Configuración</string>
+    <string name="titulo_actividad_detalle">Actividad De Detalle</string>
+    <string name="nombre_transicion_imagen">imagen_compartida</string>
+</resources>
